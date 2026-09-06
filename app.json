@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Yassin_Portfolio",
-    "slug": "Yassin_Portfolio",
+    "slug": "yassinpotfolio",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -19,7 +19,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.vaccine1208.yassinpotfolio"
     },
     "web": {
       "output": "static",
@@ -43,6 +44,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "8a8d6362-8ea2-40c6-9e63-913064143a20"
+      }
+    },
+    "owner": "vaccine1208"
   }
 }
