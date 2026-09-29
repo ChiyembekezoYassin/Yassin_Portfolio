@@ -133,7 +133,7 @@ const PROJECTS = [
     platform: "Mobile (iOS & Android)",
     status: "In Development",
     appUrl: "https://github.com/ChiyembekezoYassin/Oshota",
-    siteUrl: "https://expo.dev/accounts/vaccine1208/projects/oshota/builds/ebed7a5d-a465-40d0-831c-0a6b6c423fc1",
+    siteUrl: "https://expo.dev/accounts/vaccine1208/projects/oshota3/builds/5e22a66e-cb5e-4df8-ac15-f480d6ea1e25",
     highlights: [
       "Real-time budget tracking with category breakdown",
       "Visual charts for spending patterns over time",
